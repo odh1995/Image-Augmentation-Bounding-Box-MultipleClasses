@@ -2,8 +2,7 @@ from imgAugBoundingBox import *
 import cv2
 import os
 
-CATEGORIES = ["AyamBrand_Sardines_425g", "AyamBrand_Sardines_Flat", "Camel Baked Almond", "Camel Baked Pistachio", "FarmHouse Fresh Milk Pasteurised", "FarmHouse Fresh Milk UHT",
-              "Marigold HL Milk Large", "Marigold HL Milk LBC"]
+CATEGORIES = ["Calbee Hot And Spicy", "Mister Potato Sour Cream", "Pringles Original"]
 
 # imageInput = cv2.imread('datasets/images/AyamBrand_Sardines_425g/AYAMBRAND_SARDINES_425G0001.jpg')
 DATADIR = 'dataset'

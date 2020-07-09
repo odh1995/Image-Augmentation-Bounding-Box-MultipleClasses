@@ -51,7 +51,7 @@ def convertImgaugBBToYolov3BB(args, width, height):
 def dataAug(infile):
 
     ## Command line switches required
-    num_outfiles = 10
+    num_outfiles = 50
     # infile = 'dataset/baked_almond/CAMEL_BAKED_ALMOND0001.jpg'
 
 
